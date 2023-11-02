@@ -1,2 +1,2 @@
-#蓝河OS的rpk安装包-解包工具
+#RPK installation package for BlueOS - unpacking tool
 ## ./RpkUnion -x filepath.vru
